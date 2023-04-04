@@ -12,3 +12,5 @@ def dev():
     return a*b
 
 
+def dev_home():
+    return a+b
