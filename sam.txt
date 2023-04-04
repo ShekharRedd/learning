@@ -6,3 +6,7 @@ this is sample file
 this is done in local
 this is done in remote
 >>>>>>> a9247dd (this will throw error)
+
+
+jhekjjfbsjd
+sdkjbekj
