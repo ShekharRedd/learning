@@ -1,4 +1,21 @@
 this is sample file
 
 
+<<<<<<< HEAD
 this is done in local
+=======
+<<<<<<< HEAD
+=======
+this is done in local
+this is done in remote
+>>>>>>> a9247dd (this will throw error)
+
+
+jhekjjfbsjd
+sdkjbekj
+
+dfs
+sd
+sedf
+sdf
+>>>>>>> refs/remotes/origin/mod

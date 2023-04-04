@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 iam new to but i want to shift another
 
 this is sample file
+=======
+himn fyljhv ihokn ug;o
+
+>>>>>>> refs/remotes/origin/mod
