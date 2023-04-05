@@ -14,3 +14,6 @@ def dev():
 
 def dev_home():
     return a+b
+
+def mod_home():
+    return a:b
