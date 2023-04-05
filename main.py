@@ -22,5 +22,3 @@ def even():
     return "even"
 
 
-def md():
-    return "ff"
