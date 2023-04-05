@@ -18,9 +18,6 @@ def dev_home():
 def mod_home():
 return a/b
 
-def even():
-    return "even"
-
 
 def md():
     return "ff"
