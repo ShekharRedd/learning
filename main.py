@@ -20,7 +20,3 @@ return a/b
 
 def even():
     return "even"
-
-
-def odd():
-    return "odd number"
