@@ -22,10 +22,4 @@ def even():
     return "even"
 
 
-def md():
-    return "ff"
-
-
-    def tag ():
-    return "i create a tags "
 
