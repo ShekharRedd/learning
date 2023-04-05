@@ -19,10 +19,4 @@ def mod_home():
 return a/b
 
 
-def md():
-    return "ff"
-
-
-    def tag ():
-    return "i create a tags "
 
